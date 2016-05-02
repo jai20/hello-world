@@ -1,2 +1,2 @@
 # hello-world
-<h1>This is my first git project</h1>
+<h2>This is my first git project</h2>
